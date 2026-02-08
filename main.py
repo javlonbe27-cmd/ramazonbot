@@ -35,7 +35,7 @@ def start(message):
             )
         ),
         types.InlineKeyboardButton(
-            "🎮 GAME & AI",
+            "💌 Photo Tabrik & AI",
             web_app=types.WebAppInfo(
                 "https://javlonbe27-cmd.github.io/Aigameramazonapp/"
             )
