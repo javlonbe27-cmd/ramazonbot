@@ -35,9 +35,9 @@ def start(message):
             )
         ),
         types.InlineKeyboardButton(
-            "💌 Photo Tabrik & AI",
+            "Ramazon Hadyasi😍",
             web_app=types.WebAppInfo(
-                "https://javlonbe27-cmd.github.io/Aigameramazonapp/"
+                "https://javlonbe27-cmd.github.io/Airamazon/"
             )
         ),
         types.InlineKeyboardButton(
